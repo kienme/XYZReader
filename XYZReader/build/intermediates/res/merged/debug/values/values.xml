@@ -52,6 +52,7 @@
     <color name="material_primary">#03a9f4</color>
     <color name="material_primary_dark">#0288d1</color>
     <color name="material_primary_text">#ffffff</color>
+    <color name="material_primary_text_dark">#000000</color>
     <color name="photo_placeholder">#ccc</color>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>

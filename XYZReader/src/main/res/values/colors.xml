@@ -22,4 +22,5 @@
     <color name="material_primary_dark">#0288d1</color>
     <color name="material_accent">#ff4081</color>
     <color name="material_primary_text">#ffffff</color>
+    <color name="material_primary_text_dark">#000000</color>
 </resources>
