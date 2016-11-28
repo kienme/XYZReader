@@ -21,21 +21,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_e341bc8edd4bb26167c851ef71fb649cd10d1fd8.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/fcrr10438/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_1807f94467bdc2068d7ebd376a6d0d1424e34b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_70cf89d1881355073a686cb18d1618504a01a185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fcrr10438/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_3309b66ab66a7c1815993bffb109b72e123d6114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_66f4e9c7a973f2c3875c95581ceab7f0b79bfad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_e341bc8edd4bb26167c851ef71fb649cd10d1fd8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,39 +93,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_70cf89d1881355073a686cb18d1618504a01a185.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fcrr10438/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_3309b66ab66a7c1815993bffb109b72e123d6114.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
         <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_b2ea7f263f2129833db22bf0b13d77da18a8f5f2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/fcrr10438/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_66f4e9c7a973f2c3875c95581ceab7f0b79bfad2.jar" />
     </item>
     <item
         is-multidex="false"
