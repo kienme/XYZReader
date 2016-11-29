@@ -2073,7 +2073,7 @@ containing a value of this type.
         public static final int fab_content_size=0x7f07005d;
         public static final int fab_elevation=0x7f07005e;
         public static final int fab_margin=0x7f070017;
-        public static final int fab_press_translation_z=0x7f07005f;
+        public static final int fab_press_elevation=0x7f07005f;
         public static final int fab_size=0x7f070060;
         public static final int fab_size_mini=0x7f070061;
         public static final int fab_size_normal=0x7f070062;

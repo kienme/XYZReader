@@ -457,7 +457,7 @@ int dimen fab_border_width 0x7f07005c
 int dimen fab_content_size 0x7f07005d
 int dimen fab_elevation 0x7f07005e
 int dimen fab_margin 0x7f070017
-int dimen fab_press_translation_z 0x7f07005f
+int dimen fab_press_elevation 0x7f07005f
 int dimen fab_size 0x7f070060
 int dimen fab_size_mini 0x7f070061
 int dimen fab_size_normal 0x7f070062
