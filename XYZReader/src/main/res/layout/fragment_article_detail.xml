@@ -71,7 +71,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="article byline"
-                        android:textColor="#8fff" />
+                        android:textColor="@color/by_text" />
                 </LinearLayout>
 
                 <TextView
@@ -98,10 +98,11 @@
         android:layout_marginRight="@dimen/fab_margin"
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="@dimen/fab_margin"
-        android:layout_width="56dp"
-        android:layout_height="56dp"
+        android:layout_width="@dimen/fab_size"
+        android:layout_height="@dimen/fab_size"
         android:src="@drawable/ic_share"
         android:contentDescription="@string/action_share"
-        app:backgroundTint="@color/material_accent"/>
+        app:backgroundTint="@color/material_accent"
+        android:elevation="@dimen/fab_elevation" />
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
